@@ -4,10 +4,10 @@
     "version": "2cc9cb12"
   },
   "products": [
-    {"id":"prod-2cc9cb12-001","name":"Office Chair","category":"home","price":4999.00,"stock":3,"rating":4.1},
-    {"id":"prod-2cc9cb12-002","name":"Table Lamp","category":"home","price":1299.00,"stock":5,"rating":4.0},
-    {"id":"prod-2cc9cb12-003","name":"Wall Clock","category":"home","price":899.00,"stock":7,"rating":3.9},
-    {"id":"prod-2cc9cb12-004","name":"Air Purifier","category":"home","price":7999.00,"stock":2,"rating":4.6},
+    {"id":"prod-2cc9cb12-001","name":"Coffee Maker","category":"home","price":3499.00,"stock":4,"rating":4.2},
+    {"id":"prod-2cc9cb12-002","name":"Vacuum Cleaner","category":"home","price":8999.00,"stock":2,"rating":4.4},
+    {"id":"prod-2cc9cb12-003","name":"Air Fryer","category":"home","price":5999.00,"stock":3,"rating":4.5},
+    {"id":"prod-2cc9cb12-004","name":"Electric Kettle","category":"home","price":1499.00,"stock":5,"rating":4.1},
 
     {"id":"prod-2cc9cb12-005","name":"Smartphone X1","category":"electronics","price":19999.00,"stock":25,"rating":4.5},
     {"id":"prod-2cc9cb12-006","name":"Wireless Headphones","category":"electronics","price":2999.00,"stock":40,"rating":4.3},
