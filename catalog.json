@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "email": "23f2000576@ds.study.iitm.ac.in",
+    "version": "2cc9cb12"
+  },
+  "products": [
+    { "id": 1, "name": "Smartphone X1", "category": "electronics", "price": 19999.00, "stock": 25, "rating": 4.5 },
+    { "id": 2, "name": "Wireless Headphones", "category": "electronics", "price": 2999.00, "stock": 40, "rating": 4.3 },
+    { "id": 3, "name": "Gaming Mouse", "category": "electronics", "price": 1499.00, "stock": 60, "rating": 4.4 },
+    { "id": 4, "name": "Bluetooth Speaker", "category": "electronics", "price": 2499.00, "stock": 35, "rating": 4.2 },
+
+    { "id": 5, "name": "Office Chair", "category": "home", "price": 4999.00, "stock": 3, "rating": 4.1 },
+    { "id": 6, "name": "Table Lamp", "category": "home", "price": 1299.00, "stock": 5, "rating": 4.0 },
+    { "id": 7, "name": "Wall Clock", "category": "home", "price": 899.00, "stock": 7, "rating": 3.9 },
+    { "id": 8, "name": "Air Purifier", "category": "home", "price": 7999.00, "stock": 2, "rating": 4.6 },
+
+    { "id": 9, "name": "Men T-Shirt", "category": "fashion", "price": 499.00, "stock": 100, "rating": 4.2 },
+    { "id": 10, "name": "Women Kurti", "category": "fashion", "price": 899.00, "stock": 70, "rating": 4.3 },
+    { "id": 11, "name": "Jeans", "category": "fashion", "price": 1499.00, "stock": 50, "rating": 4.4 },
+    { "id": 12, "name": "Sneakers", "category": "fashion", "price": 1999.00, "stock": 45, "rating": 4.5 },
+
+    { "id": 13, "name": "Notebook Pack", "category": "stationery", "price": 299.00, "stock": 150, "rating": 4.1 },
+    { "id": 14, "name": "Ball Pen Set", "category": "stationery", "price": 199.00, "stock": 200, "rating": 4.0 },
+    { "id": 15, "name": "Desk Organizer", "category": "stationery", "price": 399.00, "stock": 80, "rating": 4.2 },
+    { "id": 16, "name": "Sticky Notes", "category": "stationery", "price": 149.00, "stock": 120, "rating": 3.8 }
+  ],
+  "aggregations": {
+    "home": {
+      "count": 4,
+      "inventoryValue": 31937.80
+    },
+    "electronics": {
+      "count": 4
+    },
+    "fashion": {
+      "count": 4
+    },
+    "stationery": {
+      "count": 4
+    }
+  }
+}
